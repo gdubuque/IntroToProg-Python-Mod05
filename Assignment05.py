@@ -3,7 +3,7 @@
 # Desc: This assignment demonstrates using dictionaries, files, and exception handling
 # Change Log: (Who, When, What)
 #   R.Root, 2030/01/01, Created Script
-#   G.DuBuque, 2030/07/28, Updated script for Assignment 5 to use json files, dictionaries
+#   G.DuBuque, 2030/07/29, Updated script for Assignment 5 to use json files, dictionaries
 #                          and exception handling. Removed unused variable json_data: str
 # ------------------------------------------------------------------------------------------ #
 
