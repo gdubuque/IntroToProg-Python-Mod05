@@ -32,7 +32,7 @@ student_data: dict = {}         # Holds data for one student in a dictionary (GD
 students: list = []             # List to hold all student dictionaries (json format) (GD)
 
 # When the program starts read the contents of the json file into the students list (GD)
-# Each row has the following keys: "FirstName", "LastName", "CourseName" (GD)
+# Each dictionary has the following keys: "FirstName", "LastName", "CourseName" (GD)
 # Extract the data from the file
 try:
     file = open(FILE_NAME, "r")
